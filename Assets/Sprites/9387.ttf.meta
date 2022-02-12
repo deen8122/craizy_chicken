@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e18a5369180af0749bc3fb4a8ebca35d
+timeCreated: 1519205638
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: WiGuru 2
+  fontNames:
+  - WiGuru 2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
